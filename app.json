@@ -1,4 +1,7 @@
 {
   "id": "at",
-  "displayName": "App test"
+  "displayName": "App test",
+  "deployment": {
+    "command": "make deploy"
+  }
 }
