@@ -2,6 +2,7 @@
   "id": "at",
   "displayName": "App test",
   "deployment": {
-    "command": "make deploy"
+    "command": "make deploy",
+    "template": "integration"
   }
 }
